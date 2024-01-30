@@ -16,7 +16,7 @@
 ### Tableau Desktop & Server
 | No | category | detail |
 | :--- | :--- | :---: |
-| 1 | tableauserverclient | [How to download the data source as hyper](Tableau Desktop & Server/1_How_to_download_the_data_source_as_hyper.ipynb) |
+| 1 | tableauserverclient | [How to download the data source as hyper](Tableau_Desktop&Server) |
 |  |  |  |
 
 ## Tableau Prep
