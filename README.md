@@ -4,14 +4,10 @@
  
 ---
 ### Basic
-| No | category | detail |
-| :--- | :--- | :---: |
-|  |  |  |
+[태블로 신병훈련소 15기 수료](https://public.tableau.com/app/profile/hyemin.lee6785/vizzes)
 
 ### Intermediate
-| No | category | detail |
-| :--- | :--- | :---: |
-|  |  |  |
+[태블로 UDT 3기 수료](https://public.tableau.com/app/profile/hyemin.lee6785/vizzes)
 
 ### Tableau Desktop & Server
 | No | category | detail |
